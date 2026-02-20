@@ -50,21 +50,21 @@
 
 <p align="center">
   <img src="screenshots/link_to_your_screenshot_12.jpeg" width="180" alt="Login Screen"/> &nbsp;&nbsp;
-  <img src="screenshots/link_to_your_screenshot_4.jpg" width="180" alt="Home Screen"/> &nbsp;&nbsp;
+  <img src="screenshots/link_to_your_screenshot_4.jpeg" width="180" alt="Home Screen"/> &nbsp;&nbsp;
   <img src="screenshots/link_to_your_screenshot_5.jpeg" width="180" alt="Profile View"/> &nbsp;&nbsp;
   <img src="screenshots/link_to_your_screenshot_2.jpeg" width="180" alt="Edit Profile"/>
   <br/><br/>
 
-  <img src="screenshots/link_to_your_screenshot_1.jpg" width="180" alt="Chat UI"/> &nbsp;&nbsp;
-  <img src="screenshots/link_to_your_screenshot_11.jpg" width="180" alt="Message Options"/> &nbsp;&nbsp;
+  <img src="screenshots/link_to_your_screenshot_1.jpeg" width="180" alt="Chat UI"/> &nbsp;&nbsp;
+  <img src="screenshots/link_to_your_screenshot_11.jpeg" width="180" alt="Message Options"/> &nbsp;&nbsp;
   <img src="screenshots/link_to_your_screenshot_7.jpeg" width="180" alt="Reactions"/> &nbsp;&nbsp;
-  <img src="screenshots/link_to_your_screenshot_8.jpg" width="180" alt="Deleted Messages"/>
+  <img src="screenshots/link_to_your_screenshot_8.jpeg" width="180" alt="Deleted Messages"/>
   <br/><br/>
   
-  <img src="screenshots/link_to_your_screenshot_9.jpg" width="180" alt="Create Group"/> &nbsp;&nbsp;
-  <img src="screenshots/link_to_your_screenshot_6.jpg" width="180" alt="Calling Screen"/> &nbsp;&nbsp;
+  <img src="screenshots/link_to_your_screenshot_9.jpeg" width="180" alt="Create Group"/> &nbsp;&nbsp;
+  <img src="screenshots/link_to_your_screenshot_6.jpeg" width="180" alt="Calling Screen"/> &nbsp;&nbsp;
   <img src="screenshots/link_to_your_screenshot_13.jpeg" width="180" alt="Push Notifications"/> &nbsp;&nbsp;
-  <img src="screenshots/link_to_your_screenshot_10.jpg" width="180" alt="In-App Notifications"/>
+  <img src="screenshots/link_to_your_screenshot_10.jpeg" width="180" alt="In-App Notifications"/>
 </p>
 
 ---
