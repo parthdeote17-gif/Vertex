@@ -85,3 +85,48 @@ Follow these steps to set up the project on your local machine.
    ```bash
    git clone [https://github.com/](https://github.com/)<your-username>/vertex-chat.git
    cd vertex-chat
+
+   ```markdown
+## 🚀 Getting Started
+
+Follow these steps to set up the project on your local machine.
+
+### Prerequisites
+* [Flutter SDK](https://flutter.dev/docs/get-started/install) installed.
+* A Firebase Project (Firestore, Auth, and Messaging enabled).
+* A Supabase Project (for Storage).
+* An Agora Account (for App ID).
+
+### Installation Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/vertex-chat.git
+   cd vertex-chat
+
+```
+
+2. **Install dependencies:**
+```bash
+flutter pub get
+
+```
+
+
+3. **Configure Firebase:**
+* Download the `google-services.json` file from your Firebase console and place it in the `android/app/` directory.
+* Add the `GoogleService-Info.plist` file to the `ios/Runner/` directory.
+
+
+4. **Add Service Account for Notifications:**
+* Place your Firebase Admin SDK JSON file in the `assets/` folder and name it `service_account.json` (Required for FCM v1 HTTP API).
+
+
+5. **Configure API Keys:**
+* Update your **Supabase URL** and **Anon Key** in `lib/main.dart`.
+* Update your **Agora App ID** in `lib/screens/call/call_screen.dart` and `lib/screens/call/audio_call_screen.dart`.
+
+
+6. **Run the App:**
+```bash
+flutter run
