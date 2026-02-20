@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440907207038",
+    "project_id": "vertex-de3d1",
+    "storage_bucket": "vertex-de3d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440907207038:android:319d9c24441de17d80632f",
+        "android_client_info": {
+          "package_name": "com.example.vertex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHXATUpw3atmheqFPpPsBWVKrcVvOI0tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,64 @@
+# ================================
+# Miscellaneous
+# ================================
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# ================================
+# IDE Files
+# ================================
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code (optional - enable if you don't want to track it)
+#.vscode/
+
+# ================================
+# Flutter / Dart / Pub
+# ================================
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# ================================
+# Symbolication
+# ================================
+app.*.symbols
+
+# ================================
+# Obfuscation
+# ================================
+app.*.map.json
+
+# ================================
+# Android Build
+# ================================
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# ================================
+# 🔐 Sensitive Files (IMPORTANT)
+# ================================
+assets/service_account.json
+*.jks
+key.properties
+.env
+firebase_options.dart
